@@ -1,0 +1,220 @@
+Clip Filename,Suffix,Main Dialogue
+1.0.0,About me,Hi. I'm...
+1.1.0,About the text,"This excerpt comes from the speech Abraham Lincoln gave in March of 1865 after he won reelection as president. A month later, the United States' Civil War—a war that killed more Americans than World War II—would end. A month later, an assassin would murder Abraham Lincoln. But picture yourself hearing about this speech when it happened. If you were a northerner, you probably knew a young man who had died. If you were a southerner, you almost definitely did—probably a family member. One eighth of the population, including all of my ancestors, were newly freed slaves. I doubt they could have read it, but I wonder how this speech would have come across to them."
+1.2.0,Read the text,Give this paragraph a first read. 
+1.2.1,Read too fast,"Hmm... That must've been an accident. Even if you don't get that much the first time, read through the passage and notice whatever you DO get."
+1.3.0,Intro poll,How was that? How well would you say you understood this text from that first read?
+1.3.1,Thanks,Thanks
+1.3.2,If you need,"If you need to try an easier passage, click ""exit"" and choose a new passage from the Skills tab. Otherwise, let's dive in!"
+1.4.0,Main idea intro,What's the main idea of this passage? Type a few words or phrases in the chat box.
+1.4.1,Come back later,Cool. We'll come back to the main idea after we have a closer read.
+2.0.0,Easily picture,Highlight a word or phrase you can easily picture in this first sentence.
+2.0.1,,"Cool. That works. Most people choose ""Bible."""
+2.0.2,,Cool. That was the most popular answer.
+2.0.3,,"Hmmm... There must be a way to picture that, but choose something that's easier to visualize. Try again."
+2.0.4,,"Hmmm... Most users just chose ""Bible."""
+2.1.0,"""His""","Notice the pronoun, ""His."" Drag ""His"" and drop it on the word it's replacing."
+2.1.1,,"Yeah. The way ""His"" is capitalized is also a clue that ""His"" means ""God's."""
+2.1.2,,"No. Try again. Notice that ""His"" is capitalized. Drag ""His"" and drop it on the word it's replacing."
+2.1.3,,"No. ""His"" is capitalized because it's referring to ""God."""
+2.2.0,Invoking God's aid,"""Invokes"" means ""calls on."" What's strange about each side invoking God's aid?"
+2.2.1,,"That may be true, but it doesn't say so here. Try again."
+2.2.2,,"Yeah. The word ""same"" contrasts with the word ""against."""
+2.2.3,,"No. They're both praying to the same Christian God, so there's no way for God to help both sides."
+3.0.0,2nd sentence image,"What's easy to picture in this second sentence? This time, highlight something easy to visualize, but highlight the whole phrase."
+3.0.1,,"Nice. ""Wringing"" means forcibly ""squeezing out""—the way you'd squeeze out a wet towel. "
+3.0.2,,Cool. That's visual. Now keep going. Highlight the whole image Lincoln wants you to picture.
+3.0.3,,Hmmm... We see a phrase that's easier to picture in this sentence. Try again.
+3.0.5,,"The whole phrase would be, ""wringing their bread from the sweat of other men's faces,"" ""Wringing"" means forcibly ""squeezing out""—the way you'd squeeze out a wet towel. "
+3.1.0,Wringing their bread,"Lincoln uses this visual description, ""wringing their bread from the sweat of other men's faces,"" to describe..."
+3.1.1,,Yeah. 
+3.1.2,,"No. By ""bread,"" Lincoln probably meant not just actual bread, but all the wealth produced by the slaves' hard work."
+3.2.0,Which men,"Which men is Lincoln talking about who would be asking God's assistance in ""wringing their bread from the sweat of other men's faces""?"
+3.2.1,,No. The slaves were the ones sweating. Try again.
+3.2.2,,No. The North was fighting to end slavery. Try again.
+3.2.3,,Yeah. Confederate slave owners and their allies prayed to God for help defeating the Union so that slavery would remain legal.
+3.2.4,,No. Confederate slave owners and their allies prayed to God for help defeating the Union so they could keep owning slaves.
+3.3.0,Protect slavery?!,"Lincoln says, ""It may seem strange"" to ask God to help you protect slavery. What do you think? Does it seem strange? Type your thoughts in the chat."
+3.3.1,,Here are answers from other students. Does one of these make sense to you? Which one?
+3.4.0,"""But"" road sign",Highlight the transition/road sign word in this sentence.
+3.4.1,,Yeah.
+3.4.2,,"No. Look for a word like ""next,"" ""therefore,"" or ""however"" that emphasizes or re-directs what Lincoln is saying. "
+3.5.0,"""But""","""But"" changes the direction of Lincoln's argument. In the first half of the sentence, he said ""it may seem strange"" for men to think God would help them keep slavery going. What's Lincoln's new direction after the word ""but""?"
+3.5.1,,"Yeah. Lincoln says, ""Let us judge not."""
+3.5.2,,"No. Judging them would go along with finding their actions ""strange."" ""But"" shifts the meaning in a new direction. Try again."
+3.5.3,,"No. The first half of the sentence implied that slavery is wrong. ""But"" shifts to a different or contrasting idea. Try again."
+3.5.4,,"No. Lincoln says, ""Let us judge not."" He's saying that we shouldn't judge the slave owners."
+3.6.0,Shouldn't judge,Huh? We shouldn't judge them? Why not?
+3.6.1,,"No. Lincoln clearly implied in the previous sentence that a ""just God"" would never approve of enslaving another man. Try again."
+3.6.2,,"Maybe, but that's not the reason Lincoln gives for not judging. Try again. "
+3.6.3,,"Yeah. Lincoln almost quotes the Book of Matthew in the Bible: ""Judge not, that ye be not judged."" The idea is that God is the only one who can truly judge."
+3.6.4,,"No. Lincoln almost quotes the Book of Matthew in the Bible: ""Judge not, that ye be not judged."" The idea is that God is the only one who can truly judge."
+4.0.0,"What's ""Both""?","What does Lincoln mean by ""both""?"
+4.0.1,,"No. He's talking about the same ""both"" he was talking about in the first sentence of this excerpt. He means the North and the South—the sides that are fighting in this terrible bloody war."
+4.0.2,,Yup.
+4.1.0,Prayers of both,Why can't the prayers of both sides be answered?
+4.1.1,,"Maybe, but Lincoln doesn't say that. What's obviously true in this situation? Try again."
+4.1.2,,Yes.
+4.2.0,"""That of neither""","""That of neither""—that what? Drag and drop ""that"" onto the word it represents from the previous sentence."
+4.2.1,,"Nice. Today, we would use the plural, ""those,"" to refer to plural ""prayers."" "
+4.2.2,,"No. Here's a hint: No disrespect to Abraham Lincoln, but ""that"" refers to a plural word. He should have probably said ""those"" instead of ""that."" Try again. Drag ""that"" onto the the word it's meant to represent from the previous sentence."
+4.2.3,,"No. ""That"" refers to ""The prayers."" ""Prayers"" is plural, so, if he were speaking today, Lincoln would have said, ""THOSE of neither""..."
+4.3.0,Not answered fully,"""Neither"" means ""neither side."" Lincoln doesn't explain in detail here. To understand this sentence, you have to think of the reasons yourself. Both sides prayed for God's help. The North was about to win the war. What could Lincoln have meant by saying that their prayers were not ""answered fully""? Type your thoughts in the chat."
+4.3.1,,Here are some responses we chose from other students. Which one makes the most sense to you?
+4.4.0,"""Offenses""","""The Almighty"" means ""God."" ""Woe"" means bad stuff—grief and misery. What do you think the Bible means by ""offenses""?"
+4.4.1,,Yeah.
+4.4.2,,"Maybe, but there's a better choice. Try again."
+4.4.3,,"That could be offensive, but ""Woe unto the world"" implies a reaction to something even more offensive."
+5.0.0,"""For"" road sign",Highlight the two transition/road sign words in this part of the quote.
+5.0.1,,"Yeah. The word ""for"" signals that we're going to learn something about WHY the woe and offenses happen."
+5.0.2,,"Yeah. ""Because"" points to the reason for the ""woe"" or misery."
+5.0.3,,No. We're looking for a word that directs our understanding. Try again. 
+5.0.4,,"No. The words ""for"" and ""because"" signal that we're going to get explanations."
+5.1.0,Woe explanation,"So, what explanation is the Bible offering about ""woe""—about grief and misery in the world?"
+5.1.1,,"That could be true, but it's not what the Bible says here. Read it and try again."
+5.1.2,,"Well, it definitely doesn't say that here. Try again."
+5.1.3,,"Yup. ""It must needs be"" means that offenses just have to happen. "
+5.1.4,,"No. ""It must needs be"" means that offenses just have to happen. "
+5.2.0,"""But"" road sign",One more transition/road sign word in this quote. Highlight it. 
+5.2.1,,"Yeah, that's a road sign word, but we're looking for another one later in the quote. Try again."
+5.2.2,,"Right, but we already looked at that one. Find another transition/road sign word later in the quote."
+5.2.3,,"Yeah. ""But"" signals a shift."
+5.2.4,,No. Try again. We're looking for a word that signals a shift to a new idea.
+5.2.5,,"No. The word ""but"" lets us know that a new idea is coming."
+5.3.0,Different woe,"""But"" contrasts the first kind of woe—""woe to the world"" for offenses that ""must needs... come""—with another kind of woe. Drag and drop the highlighted phrase onto the different kind of woe that the Bible is offering as a contrast."
+5.3.1,,Nice!
+5.3.2,,No. Try again.
+5.3.3,,"No. The Bible is contrasting the first kind of woe -- the kind that ""must needs come"" -- with woe that happens to a man who causes the offense."
+5.4.0,Two kinds of grief,So what is the difference between the first kind of woe (or grief) and the second kind?
+5.4.1,,"Yeah. The first kind impacts ""the world"" because of offenses that ""must needs be,"" while the second affects ""that man by whom the offense cometh""—the guy who did the offense."
+5.4.2,,"Hmmmm... It could be ""catastrophic,"" but it definitely doesn't mention anything being ""easily overcome."" Try again."
+5.4.3,,"No. If anything, the opposite would be true. Try again."
+5.4.4,,"No. It says the first kind impacts ""the world"" because of offenses that ""must needs be,"" while the second effects ""that man by whom the offense cometh""—the guy who did the offense."
+5.5.0,"""Offense cometh""","We'll learn more as we continue, but, for right now, who do you think Lincoln could have in mind for the part of the Bible quote that says, ""that man by whom the offense cometh""? Type your answer in the chat"
+6.0.0,Read long sentence,"The next sentence is the longest and most challenging one in the speech. We're going to look at each part of it, but, first, read through the whole thing."
+6.0.1,,"You definitely don't wanna speed-read this. Try and take it in and click ""proceed"" when you're done."
+6.1.0,More offenses,"Does the highlighted phrase sound familiar? Drag and drop ""one of those offenses which, in the providence of God, must needs come"" onto the similar phrase from the previous sentence."
+6.1.1,,Nice. Lincoln uses words and phrases here that were used in the first part of the quote from the Bible.
+6.1.2,,No. Look for something that used some of the same phrases Lincoln is using in the highlighted text.
+6.1.3,,"No. Lincoln uses the phrases here that were used in the first part of the quote from the Bible—offenses that ""must needs come."""
+6.2.0,What offense?,So what offense specifically is Lincoln saying might be the kind of offense the Bible was talking about?
+6.2.1,,He doesn't mention any war crimes. Try again.
+6.2.2,,"Yup. He says it right there—""American slavery is one of those offenses..."""
+6.2.3,,"He's coming to that, but, no. Try again."
+6.2.4,,"No. He says it right there—""American slavery is one of those offenses..."""
+6.3.0,"""But"" transition","There's another transition/road sign word, here. Highlight it."
+6.3.1,,Cool
+6.3.2,,No. Try again. There's one word that marks a big shift.
+6.3.3,,"No. ""But"" is pretty much always a road sign word, and it marks a major shift here. "
+6.4.0,Contrast between,"This time, ""but"" signals a contrast between..."
+6.4.1,,"Hmmm... Maybe the first part, but it definitely doesn't mention anything here about the second. Try again."
+6.4.2,,That sounds reasonable but always base your answers on what's written in the passage. Try again.
+6.4.3,,"Yes. Lincoln says slavery was an offense that, ""in the providence of God, must needs come,"" but ""He now wills to remove."" He allowed it, but now He's ready to get rid of it."
+6.4.4,,"No. Lincoln says slavery was an offense that, ""in the providence of God, must needs come,"" but ""He now wills to remove."" He allowed it, but now He's ready to get rid of it."
+6.5.0,"""Woe to that man""","Back to the Bible quote. Lincoln echoed the first part about woes from offenses that ""must needs"" come by connecting with slavery. What about the other type of woes the Bible mentions? Drag the last part of the Bible quote—""Woe to that man by whom the offense cometh""—and drop it on the similar phrase Lincoln uses later."
+6.5.1,,"Exactly. Lincoln repeats the phrase, ""by whom the offense cometh."""
+6.5.2,,No. Lincoln actually repeats part of the Bible quote. Try again. 
+6.5.3,,"No Lincoln repeats the phrase, ""by whom the offense cometh."""
+6.6.0,Who deserves woe?,"So, who does Lincoln say deserves the woe for causing the offense of slavery? Here's what you said before."
+6.6.1,,What do you think now?
+6.6.2,,"Well, sort of, but read more closely. Try again. "
+6.6.3,,"Yeah. Lincoln says God ""gives to both North and South this terrible war as the woe due to those by whom the offense came."""
+6.6.4,,"No. Lincoln says God ""gives to both North and South this terrible war as the woe due to those by whom the offense came."""
+6.7.0,Therein,"""Shall we"" means ""should we."" ""Discern"" means ""see"" or ""identify,"" and ""therein"" means ""in there."" So, what does ""THEREIN"" refer to? In where? "
+6.7.1,,"Yeah. This is tricky. ""Therein"" refers to everything Lincoln has just been discussing about the offense of slavery and the woe of the Civil War."
+6.7.2,,No. Pronouns typically represent the most recent possible thing that's been mentioned in a text. Try again.
+6.7.3,,No. That's too broad. Lincoln is referring to something he's just talked about. Try again. 
+6.7.4,,"No. This is tricky. ""Therein"" refers to everything Lincoln has just been discussing about the offense of slavery and the woe of the Civil War."
+6.8.0,Divine attributes,"""Divine"" means ""related to God,"" and ""attributes"" are characteristics or personal qualities. Lincoln doesn't say here which attributes or qualities of God he's talking about. To understand this sentence, you'd have to think of some yourself. What important qualities of God come to mind? What would ""the believers in a living God always ascribe to Him""?"
+6.8.1,,Cool. Here are some others' responses we picked. Choose your favorite.
+6.8.2,,"I don't know what you responded or chose, obviously, but, overall, the attribute of God that most people mentioned was justice—maybe cause so much of this passage is about justice and Lincoln mentions ""a just God"" right in the second sentence."
+6.9.0,,"Now let's put this whole question together. ""Shall we discern therein""—should we see in the situation with slavery and the Civil War—""any departure"" from God's justice? What do you think? Should we?"
+6.9.1,,"In other words, should we see the situation with slavery and the Civil War as different from the way God normally handles things?"
+6.9.2,,Cool. Here are some other responses we selected. Do you agree with any of these?
+7.0.0,Strongest image,Highlight the strongest image in this sentence.
+7.0.1,,"That's part of it, but highlight the whole phrase that Lincoln wants you to picture."
+7.0.2,,Yeah.
+7.0.3,,"Hmmm... Maybe, but choose a stronger image."
+7.0.4,,"No. The ""mighty scourge of war"" seems like the strongest image in this sentence."
+7.1.0,Scourge,"Today, the word ""scourge"" refers to any kind of misery or suffering, but in 1865, when Lincoln gave this speech, a ""scourge"" meant a whip used to punish. What does that definition make you think of?"
+7.1.1,,"Yeah. Most people said, ""slavery."""
+7.2.0,"What's ""it""?","What's ""it""? ""If God wills that"" what continue? Drag and drop ""it"" onto the word it's replacing."
+7.2.1,,Yup
+7.2.2,,No. Try again. 
+7.2.3,,No. He's referring to the war continuing.
+7.3.0,All the wealth,Cool. Now highlight the first word or phrase you can easily picture in this sentence.
+7.3.1,,"Maybe, but we see another important phrase to visualize earlier in this sentence. Try again."
+7.3.2,,Nice!
+7.3.3,,"Nice! That's part of it! Now highlight the whole, long phrase that Lincoln wants you to picture here. "
+7.3.4,,Hmmm... We see a stronger image in there. Try again.
+7.3.5,,"Well, the whole thing Lincoln wants us to picture is ""all the wealth piled by the bondsman's two hundred and fifty years of unrequited toil."""
+7.4.0,,"""Bondsman"" means ""slave."" ""Toil"" means ""labor"" or ""hard work,"" and ""unrequited"" means ""not rewarded"" or ""without getting anything in return."" So, when Lincoln says, ""All the wealth piled by the bondsman's two hundred and fifty years of unrequited toil,"" really try and picture that. How much wealth would that be?"
+7.4.1,,Here are some others' responses.
+7.5.0,Sunk,"Lincoln says that God may will that all the wealth created by slavery ""shall be sunk""—what does he mean by ""sunk""?"
+7.5.1,,No. No ship could hold that much wealth. Try again.
+7.5.2,,"Yeah. Lincoln says, ""...if God will that it continue."" ""It"" referred to the Civil War."
+7.5.3,,No. There's nothing here about burying the wealth. Try again.
+7.5.4,,"No. Lincoln says, ""...if God will that it continue."" ""It"" referred to the Civil War."
+7.6.0,"""Every drop...""",What's the next phrase Lincoln wants us to picture. Highlight it and remember to highlight the whole phrase.
+7.6.1,,"No. We're looking for something that comes after ""unrequited toil."" Try again. "
+7.6.2,,Yeah. 
+7.6.3,,Yeah. That's part of it. Now highlight the whole phrase
+7.6.4,,Hmmm... We see a stronger image in there. Try again.
+7.6.5,,"The next image we saw was ""every drop of blood drawn with the lash."""
+7.7.0,"""Drawn with the sword""","Lincoln says that maybe every drop of blood from the slaves ""shall be paid by another drawn with the sword."" What does he mean by that?"
+7.7.1,,"Yeah. ""The sword"" is a metaphor for warfare and the bloodshed it causes. "
+7.7.2,,"No. That's definitely not what he means. Given the 250 year history of slavery, most people who'd owned slaves were already dead anyway. Try again."
+7.7.3,,"Well, Lincoln definitely feels that way, but that's not what he's saying here. Try again. "
+7.7.4,,"No. ""The sword"" is a metaphor for warfare and the bloodshed it causes. "
+7.8.0,Biblical quote,"Lincoln ends with another Biblical quote, this one from the Book of Psalms that was probably written around 1000 B.C. Why do you think Lincoln refers to God and the Bible so much in these words?"
+7.8.1,,Here are some other responses. Do you agree with any of these?
+8.0.0,Last time u said...,Back to the main idea. Here's what you said at the beginning.
+8.0.1,,What do you think it is now?
+8.1.0,Main idea,Cool. So which of these is the main idea?
+8.1.1,,"No. Lincoln says slavery may be ""one of those offenses which, in the providence of God, must needs come."" Try again."
+8.1.2,,"Maybe. Lincoln characterizes the Civil War as ""the woe due to those by whom the offense came."" Maybe he thought the North and South were equally responsible for slavery and deserved this punishment, but there's a stronger answer choice. Try again."
+8.1.3,,"No. Lincoln says the North and South both have to suffer ""the woe due to those by whom the offense came."" Try again."
+8.1.4,,"Yeah. Lincoln concludes that ""the judgements of the Lord are true and righteous altogether,"" even when we pay a terrible price."
+8.1.5,,"That's a nice sentiment. Lincoln may have felt that way, but he doesn't say that here. Try again. "
+8.1.6,,"No. Lincoln concludes that ""the judgements of the Lord are true and righteous altogether,"" even when we pay a terrible price."
+8.2.0,Appreciate,"Imagine yourself living back then and reading or hearing about this speech. Imagine you're a southerner, a northerner, a newly freed slave or any other kind of person. Tell us who you are and how you feel about this part of Lincoln's speech."
+8.2.1,,Here's a sampling of responses. Pick a favorite.
+9.0.0,End poll,How was this experience for you?
+9.1.0,Additional feedback,This is a new product. Our goal is to help students (like you!) gain confidence in tackling challenging texts. Tell us a little bit more about your experience!
+9.1.1,,Thanks!
+0.5.1,,That works. Most people found a more specific image. Try again.
+0.0.1,,"The right answer's in there, but you highlighted too much. Try again, and only highlight the word or phrase you need."
+0.0.2,*if they highlight the whole thing,Haha! You can't just highlight the whole thing. Try again.
+0.0.3,,"That's part of it, but highlight the whole thing."
+0.0.4,,Great. Find another.
+0.1.0,,Great!
+0.1.1,,Nice!
+0.1.2,,Cool!
+0.1.3,,Awesome!
+0.1.4,,Excellent!
+0.1.5,,Yep! [excited]
+0.1.6,,Yes! [excited]
+0.1.7,,Thanks!
+0.2.0,,Ok [not excited]
+0.2.1,,Yeah [not excited]
+0.2.2,,Hmm...
+0.2.3,,I can't really picture that.
+0.3.0,,Try again.
+0.3.1,,"Nah. You have to at least type, y'know, real words"
+0.3.2,,Here's what we were looking for..
+0.3.3,,Here's what we meant.
+0.3.4,,Here's what other students said.
+0.4.0,,Hmm... Maybe watch the Navigators video for this skill?
+0.4.1,,Hmm... Maybe watch the Zincing video for this skill?
+0.4.2,,Hmm... Wanna watch the Tone video to get a better handle on this skill?
+0.5.0,,"[e.g., pound + ""that was great""]"
+0.5.1,,That works. Most people saw a more specific image. Try again.
+0.6.0,Zincing,"Video puts images directly into our brains. Reading is different. When we read we have to convert the words into images and meanings in our heads. We call that ZINCING—taking words off the page and turning them into pictures and meanings in your head. Zincing usually isn't that difficult to do, but if you don't turn the words into pictures, reading just feels like nyahnyahnyahnyahnyah. Very boring. Get used to Zincing and you might even start to love reading..."
+0.6.1,visualize,"Your first reading move should always be to find words you can easily picture. Even in the most difficult text, a word or phrase you can picture is like a hand-hold when you're climbing a rock wall. Picture whatever you can, and then use those images to start figuring out what the whole text means.  "
+0.6.2,key image,"If a writer says, ""He had a warm smile,"" you can picture that, but, if she says, ""He had a smile like sunshine on a lazy summer afternoon,"" you're getting a lot more to work with. You can imagine the smile. You can also see that lazy summer afternoon. When you find a strong image like that, you wanna let yourself really see it. Then, when it's really happening in your imagination, you wanna notice all the other thoughts and feelings around that image. That's how you use a key image."
+0.6.3,imagine,"If a writer says, ""He had a warm smile,"" you can easily visualize that. But when a writer says something less visual, like, ""She loved competing so long as there was a clear winner,"" you also need to picture something. What might these competitions be? Imagine competitions with clear winners so the sentence makes meanings in your mind and keep reading to find out more. "
+0.6.4,navigators,"If you're driving a car, the paint on the road, the signs, the lights, signals from other cars—all this stuff tells you how to navigate. When you're reading, picking up the navigation clues let's you understand what the writer meant."
+0.6.5,road signs,"Two types of road signs in a text: transition words (like ""however,"" ""also,"" ""because,"" ""and"") and punctuation (colons, semicolons, commas, dashes, and even periods). Mostly, the punctuation let's you know to expect an explanation or more details."
+0.6.6,pronouns,"Pronouns are words that act as placeholders for other words—""she,"" ""he,"" ""they,"" ""it,"" ""that,"" ""this."" When you see a pronoun, make sure you connect it with the word or phrase it's replacing. ""This led to blah, blah, blah..."" What's ""this""? You'll usually find pronouns replacing words or phrases that have just been mentioned or are about to be mentioned."
+0.6.7,explainers,"When a writer says something that's not completely clear, you should expect them to explain. Sometimes they give you punctuation, like a colon or dash or comma that announces, ""here's the explanation!"" Sometimes they just go on and explain. "
+0.6.8,tone,"Tone refers to the feelings behind the words. Is the author excited, or critical or angry or unsure? Look for words and phrases with a lot of flavor or contrasts between words to convey the writer's feelings."
